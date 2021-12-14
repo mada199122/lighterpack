@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Outdoorlight <zest_cod0s@icloud.com>
+MAINTAINER Outdoorlight <zgsgsxd@icloud.com>
 ENV HOSTNAME lighterpack
 
 # Install packages
