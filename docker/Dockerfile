@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER Nodar Nutsubidze <nodar.nutsubidze@gmail.com>
+MAINTAINER Outdoorlight <zest_cod0s@icloud.com>
 ENV HOSTNAME lighterpack
 
 # Install packages
